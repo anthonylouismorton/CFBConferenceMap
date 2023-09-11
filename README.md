@@ -34,7 +34,7 @@ Thank you for your support, it is greatly appreciated.
 
 - **Name:** Anthony Morton
 - **Email:** anthonymorton760@gmail.com
-- **LinkedIn:** www.linkedin.com/in/anthony-louis-morton/
+- **LinkedIn:** [Connect with Me on LinkedIn](www.linkedin.com/in/anthony-louis-morton/)
 
 - ## Technologies Used
 
