@@ -34,7 +34,7 @@ Thank you for your support, it is greatly appreciated.
 - **Email:** anthonymorton760@gmail.com
 - **LinkedIn:** [Connect with Me on LinkedIn](www.linkedin.com/in/anthony-louis-morton/)
 
-- ## Technologies Used
+## Technologies Used
 
 - **Frontend Framework:** Next.js
 - **CSS Framework:** Tailwind CSS
